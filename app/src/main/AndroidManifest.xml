@@ -12,7 +12,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".recycleView.RecycleViewActivity"></activity>
+        <activity android:name=".recycleView.LinearRecycleViewActivity"></activity>
+        <activity android:name=".recycleView.RecycleViewActivity" />
         <activity android:name=".ImageViewActivity" />
         <activity android:name=".listView.ListViewActivity" />
         <activity android:name=".gridView.GridViewActivity" />
